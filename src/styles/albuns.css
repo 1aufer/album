@@ -1,0 +1,13 @@
+.albums{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 5px;
+}
+
+.album{
+    margin: 3px;
+    width: 10px;
+}
